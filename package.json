@@ -1,0 +1,16 @@
+{
+  "name": "milky-piano-propose-5npvp",
+  "productName": "milky-piano-propose-5npvp",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "ASUS",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "24.1.3"
+  }
+}
